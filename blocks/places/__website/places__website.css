@@ -4,7 +4,7 @@
   font-size: 18px;
   line-height: 22px;
   opacity: 1;
-  transition: opacity .4s linear;
+  transition: opacity .5s linear;
 }
 .places__website:hover {
   opacity: 0.8;

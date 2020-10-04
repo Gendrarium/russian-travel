@@ -1,0 +1,11 @@
+.cover {
+  background-image: url(../../../images/cover-baikal.jpg);
+  background-size: cover;
+  max-width: 1184px;
+  margin: 0 auto;
+  opacity: 1;
+  transition: opacity .5s linear;
+}
+.cover:hover{
+  opacity: .8;
+}

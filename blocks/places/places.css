@@ -1,6 +1,6 @@
 .places {
   max-width: 984px;
-  padding-top: 79px;
+  padding: 79px 0 92px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
