@@ -17,7 +17,7 @@
  
 **Сайт** 
  
-* [Ссылка на сайт](https://gendrarium.github.io/russian-travel/index.html) 
+* [Ссылка на сайт](https://gendrarium.github.io/russian-travel/) 
  
  
  
