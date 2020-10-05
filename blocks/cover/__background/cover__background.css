@@ -5,6 +5,10 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  transition: background-color .5s linear;
+}
+.cover__background:hover {
+  background-color: rgba(42, 44, 47, .8);
 }
 @media screen and (max-width: 1279px) {
   .cover__background {

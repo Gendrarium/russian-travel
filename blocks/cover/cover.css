@@ -3,11 +3,6 @@
   background-size: cover;
   max-width: 1184px;
   margin: 0 auto;
-  opacity: 1;
-  transition: opacity .5s linear;
-}
-.cover:hover{
-  opacity: .8;
 }
 @media screen and (max-width: 1279px) {
   .cover {
